@@ -4,7 +4,9 @@ public class Greetings {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        System.out.println("l00137495");
+        System.out.println("Greetings LYIT Student!");
+        System.out.println("Greetings Everyone!");
+
 	}
 
 }
